@@ -61,12 +61,12 @@ p {
 .top-cloud {
   position: absolute;
   top: 30px;
-  right: 300px;
+  right: 18.75rem;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 270px;
+  left: 16.875rem;
 }
 
 .mountain{
